@@ -22,7 +22,7 @@ Dana kaget sebesar 1 juta.
 Selamat mencoba aplikasi ini.
 SEMANGATTTT.
 
-##INSTAL & PULL IMAGE
+##INSTAL DOCKER & PULL IMAGE
 
 1. Instal Docker
 sudo apt update
