@@ -16,11 +16,11 @@ Proyek ini adalah skrip Python sederhana yang digunakan untuk menghapus kalimat 
 3. Buat file teks dengan nama `daftar.txt` yang berisi data,
 misalnya:
 Halo, ini adalah contoh daftar.
-Saya mendapatkan dana kaget dari teman saya.
-Dana kaget senilai satu juta.
-Yeyyy dapat dana kaget.
+Aku adalah dana kaget.
+Aku? berlutut? tidak akan.
+Dana kaget sebesar 1 juta.
 Selamat mencoba aplikasi ini.
-SEMANGATTTT
+SEMANGATTTT.
 
 ##INSTAL & PULL IMAGE
 
